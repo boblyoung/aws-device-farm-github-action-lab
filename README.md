@@ -6,3 +6,6 @@ Doing some fixes to the readme
 test 
 test
 test
+
+add some more tests
+
